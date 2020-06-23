@@ -3,7 +3,7 @@ import axios from "axios";
 import "./App.css";
 import ButtonContainer from "./Button/ButtonContainer.js";
 import DetailBox from "./Details/DetailBox.js";
-import Media from "./Media/media.js";
+import MediaFrame from "./MediaFrame/MediaFrame.js";
 import DatePicker from "./DatePicker/DatePicker.js";
 import interestingFinds from "./interestingFinds.js";
 
